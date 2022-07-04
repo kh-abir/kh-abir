@@ -1,23 +1,27 @@
 <h1 align="center">Hi 👋, I'm Kamrul Hassan Abir</h1>
 <h3 align="center">A passionate Ruby on Rails developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kh-abir&label=Profile%20views&color=0e75b6&style=flat" alt="kh-abir" /> </p>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=kh-abir&label=Visitors&color=0e75b6&style=flat" alt="kh-abir" />
+
+![GitHub followers](https://img.shields.io/github/followers/kh-abir?label=Follow&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/abrakadebraaa?label=Follow&style=social)
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kh-abir" alt="kh-abir" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/abrakadebraaa" target="blank"><img src="https://img.shields.io/twitter/follow/abrakadebraaa?logo=twitter&style=for-the-badge" alt="abrakadebraaa" /></a> </p>
-
 - 🔭 I’m currently working on [SeekRihgtJobs](https://github.com/rightcodes-solution/seekrightjobs_front)
 
-- 🌱 I’m currently learning **React || NextJS || MaterialUI**
+- 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Ruby on Rails || Javascript || React**
+- 💬 Ask me about **Ruby on Rails || Javascript || React || React Native**
 
-- 📫 How to reach me **kh27.abir@gmail.com**
+- 📫 any freelance work? reach me at **kh27.abir@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/abrakadebraaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abrakadebraaa" height="30" width="40" /></a>
+<a href="https://twitter.com/abrakadebraaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-
+-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abrakadebraaa" height="30" width="40" /></a>
 <a href="https://fb.com/abir.iubat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abir.iubat" height="30" width="40" /></a>
 <a href="https://instagram.com/abra_ka_debra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abra_ka_debra" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/abrakadebra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abrakadebra" height="30" width="40" /></a>
