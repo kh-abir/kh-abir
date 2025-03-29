@@ -10,9 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kh-abir" alt="kh-abir" /></a> </p>
 
-- 🔭 I’m currently working on [SeekRihgtJobs](https://github.com/rightcodes-solution/seekrightjobs_front)
-
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **AI models**
 
 - 💬 Ask me about **Ruby on Rails || Javascript || React || React Native**
 
